@@ -26,6 +26,6 @@ I am Oktavia Citra Resmi Rachmawati, an active learner that very enthusiastic ab
 
 ### Activities
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=oktaviacitra&show_icons=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktaviacitra&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=oktaviacitra&show_icons=true" width="400" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktaviacitra&layout=compact" width="400" />
 </p>

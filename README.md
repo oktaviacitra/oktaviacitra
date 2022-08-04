@@ -24,5 +24,6 @@ I am Oktavia Citra Resmi Rachmawati, an active learner that very enthusiastic ab
 - Behance : https://www.behance.net/oktaviacitra
 - Instagram : https://www.instagram.com/citra.code/
 
-![Citra's github stats](https://github-readme-stats.vercel.app/api?username=oktaviacitra&show_icons=true&hide=["prs","issues","contribs"])<br>
+## Github Stats
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=oktaviacitra&show_icons=true&hide=["prs","issues","contribs"]" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktaviacitra&layout=compact" />

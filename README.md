@@ -23,6 +23,7 @@ I am Oktavia Citra Resmi Rachmawati, an active learner that very enthusiastic ab
 - Medium : https://medium.com/@oktaviacitra
 - Behance : https://www.behance.net/oktaviacitra
 - Instagram : https://www.instagram.com/citra.code/
+- Gitlab : https://gitlab.com/oktaviacitra
 
 ### Activities
 <p>

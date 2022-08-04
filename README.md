@@ -25,5 +25,7 @@ I am Oktavia Citra Resmi Rachmawati, an active learner that very enthusiastic ab
 - Instagram : https://www.instagram.com/citra.code/
 
 ### Activities
+<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=oktaviacitra&show_icons=true" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktaviacitra&layout=compact" />
+</p>
